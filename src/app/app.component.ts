@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import 'rxjs/add/observable/timer';
-import { Observable } from 'rxjs-compat';
+// import 'rxjs/add/observable/timer';
 import { MatDialog } from '@angular/material';
 import { EditCourseComponent } from './edit-course/edit-course.component';
 
